@@ -1,4 +1,4 @@
-#include "chain.h"//xiugai
+#include "chain.h"
 
 void main()
 {
